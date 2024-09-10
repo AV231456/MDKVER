@@ -1,0 +1,48 @@
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.exe
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.deps.json
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.runtimeconfig.json
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.dll
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.pdb
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.Form1.resources
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfo.cs
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.dll
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\refint\MDK1.dll
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.pdb
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.genruntimeconfig.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\ref\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\refint\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK22222222-b865adbf64de4a4df1bd987c934f18211ea805af\MDK1\MDK1\obj\Debug\net8.0-windows\ref\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\refint\MDK1.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Каримов Каймов\MDK333333-bc28cb700b846aa1ccbdc5842845b5ec21b8c796\MDK1\MDK1\obj\Debug\net8.0-windows\ref\MDK1.dll
